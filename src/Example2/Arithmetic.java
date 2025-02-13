@@ -19,5 +19,11 @@ public class Arithmetic
         int z=x*y;
         System.out.println("The multiply of two numbers is "+z);
 
+        int l=9;
+        int m=3;
+        int n=l/m;
+        System.out.println("The div of two numbers is "+n);
+
+
     }
 }

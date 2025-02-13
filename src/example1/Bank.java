@@ -12,6 +12,9 @@ public class Bank
         sriRegistrationForm.lastName="Sri";
         sriRegistrationForm.phoneNumber="+91 9087654321";
         sriRegistrationForm.dob="10/3/2008";
+        sriRegistrationForm.age=17;
+
+
 
         Address sriAddress=new Address();
         sriAddress.street="Raja nagar";

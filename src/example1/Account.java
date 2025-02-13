@@ -6,6 +6,8 @@ public class Account {
     String name;
     String dob;
     String phoneNumber;
+    int age;
+
 
     Address address;
     Detail detail;

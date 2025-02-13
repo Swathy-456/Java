@@ -16,6 +16,8 @@ public class RegistrationForm
   String occupation;
   String employerName;
   String joinOwner;
+  int age;
+
 
     @Override
     public String toString() {
